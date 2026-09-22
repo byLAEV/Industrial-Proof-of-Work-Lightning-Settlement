@@ -8,7 +8,7 @@
 
 ---
 
-## ⚠️ Status
+##  Status
 
 **Conceptual Architecture — v0.1**
 
@@ -20,7 +20,7 @@ The architecture explores how industrial processes could generate cryptographica
 
 ---
 
-## ⚠️ Authorship Disclaimer
+##  Authorship Disclaimer
 
 The reference to **Satoshi Nakamoto** is conceptual, creative, and philosophical.
 
